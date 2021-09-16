@@ -7,8 +7,8 @@
 ## Details
 file contains followings:
 
-* **[Forecasting](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)**
-* **[Scheduling](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/Inventory_problem.ipynb)**
+* **[Forecasting](https://github.com/XAbirHasan/IPE/blob/master/source/Forecasting.ipynb)**
+* **[Scheduling](https://github.com/XAbirHasan/IPE/blob/master/source/Scheduling.ipynb)**
 
   ## Authors
 
